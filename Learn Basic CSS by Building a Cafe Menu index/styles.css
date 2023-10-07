@@ -5,3 +5,7 @@ body {
 h1, h2, p {
     text-align: center;
 }
+
+#menu {
+    width: 300px;
+  }
