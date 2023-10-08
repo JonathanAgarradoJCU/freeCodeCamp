@@ -19,10 +19,10 @@ h1, h2, p {
 
 .flavor {
     text-align: left;
-    width: 49%;
+    width: 75%;
 }
-  
-  .price {
+
+.price {
     text-align: right;
-    width: 49%;
+    width: 25%;
 }
