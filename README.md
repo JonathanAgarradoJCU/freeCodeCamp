@@ -21,12 +21,12 @@ Selecting the correct colors for your webpage can greatly improve the aesthetic 
 
 In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
 
-## [Learn HTML Forms by Building a Registration Form]()
+## [Learn HTML Forms by Building a Registration Form](https://github.com/JonathanAgarradoJCU/freeCodeCamp/tree/main/1.4%20Learn%20HTML%20Forms%20by%20Building%20a%20Registration%20Form)
 You can use HTML forms to collect information from people who visit your webpage.
 
 In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
 
-## [Survey Form (Certification Project)]()
+## [Survey Form (Certification Project)](https://github.com/JonathanAgarradoJCU/freeCodeCamp/tree/main/1.5%20Survey%20Form%20(Certification%20Project))
 This is one of the required projects to earn your certification.
 
 For this project, you will build a survey form to collect data from your users.
