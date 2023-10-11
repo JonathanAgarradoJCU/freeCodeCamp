@@ -13,10 +13,16 @@ h1 {
     margin: 10px auto;
 }
   
+<<<<<<< HEAD
 .cap {
     width: 60px;
     height: 25px;
 }
+=======
+  .red {
+    background: linear-gradient(90deg);
+  }
+>>>>>>> parent of 1e00864 (Test linear-gradient function for 3-color gradient)
   
 .sleeve {
     width: 110px;
