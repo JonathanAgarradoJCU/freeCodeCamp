@@ -26,6 +26,10 @@ fieldset {
     padding: 2rem 0 2rem 0;
 }
 
+fieldset:last-of-type {
+    border-bottom: none;
+}
+
 label {
     display: block;
     margin: 0.5rem 0;
