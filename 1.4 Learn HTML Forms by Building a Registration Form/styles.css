@@ -12,29 +12,29 @@ h1, p {
     margin: 1em auto;
     text-align: center;
 }
-
+  
 form {
-    margin: 0 auto;
+    width: 60vw;
     max-width: 500px;
     min-width: 300px;
-    width: 60vw;
+    margin: 0 auto;
 }
-
+  
 fieldset {
     border: none;
+    padding: 2rem 0;
     border-bottom: 3px solid #3b3b4f;
-    padding: 2rem 0 2rem 0;
 }
-
+  
 fieldset:last-of-type {
     border-bottom: none;
 }
-
+  
 label {
     display: block;
     margin: 0.5rem 0;
 }
-
+  
 input,
 textarea,
 select {
@@ -42,16 +42,20 @@ select {
     width: 100%;
     min-height: 2em;
 }
-
+  
 input, textarea {
     background-color: #0a0a23;
     border: 1px solid #0a0a23;
     color: #ffffff;
-    min-height: 2em; 
 }
-
+  
 .inline {
     width: unset;
     margin: 0 0.5em 0 0;
     vertical-align: middle;
+}
+  
+input[type="submit"] {
+    display: block;
+    width: 60%;
 }
