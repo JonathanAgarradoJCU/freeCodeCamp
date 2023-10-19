@@ -28,17 +28,18 @@
     background-color: #8f0401;
     margin: 0 auto 20px;
     box-shadow: 0 0 3px 3px #8f0401;
+    border-radius: 8px 10px;
 }
-
+  
 .one, .two {
     filter: blur(1px);
 }
-
+  
 .three {
     width: 91%;
     height: 28%;
     background-color: #b20403;
-    margin: 0 auto 20px;
+    margin: auto;
     filter: blur(2px);
     box-shadow: 0 0 5px 5px #b20403;
 }
