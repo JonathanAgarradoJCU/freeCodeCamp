@@ -26,7 +26,7 @@ You can use HTML forms to collect information from people who visit your webpage
 
 In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
 
-# [1.5 Survey Form (Certification Project)](https://github.com/JonathanAgarradoJCU/freeCodeCamp/tree/main/1.5%20Survey%20Form%20(Certification%20Project))
+# [1.5 Survey Form (CERTIFICATION PROJECT)](https://github.com/JonathanAgarradoJCU/freeCodeCamp/tree/main/1.5%20Survey%20Form%20(Certification%20Project))
 This is one of the required projects to earn your certification.
 
 For this project, you will build a survey form to collect data from your users.
@@ -35,3 +35,8 @@ For this project, you will build a survey form to collect data from your users.
 Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.
 
 In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces.
+
+## [2.2 Learn CSS Flexbox by Building a Photo Gallery]()
+Flexbox helps you design your webpage so that it looks good on any screen size.
+
+In this course, you'll use Flexbox to build a responsive photo gallery webpage.
