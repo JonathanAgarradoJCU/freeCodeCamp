@@ -4,7 +4,6 @@
     background-color: #4d0f00;
     overflow: hidden;
     filter: blur(2px);
-    
 }
   
 .frame {
@@ -26,6 +25,10 @@
     height: 200px;
     background-color: #8f0401;
     margin: 0 auto 20px;
+}
+
+.one, .two {
+    filter: blur(1px);
 }
 
 .three {
