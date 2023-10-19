@@ -30,3 +30,8 @@ In this course, you'll learn HTML forms by building a signup page. You'll learn 
 This is one of the required projects to earn your certification.
 
 For this project, you will build a survey form to collect data from your users.
+
+## [Learn the CSS Box Model by Building a Rothko Painting](https://github.com/JonathanAgarradoJCU/freeCodeCamp/tree/main/2.1%20Learn%20the%20CSS%20Box%20Model%20by%20Building%20a%20Rothko%20Painting)
+Every HTML element is its own box – with its own spacing and a border. This is called the Box Model.
+
+In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces.
