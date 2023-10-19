@@ -3,6 +3,8 @@
     height: 600px;
     background-color: #4d0f00;
     overflow: hidden;
+    filter: blur(2px);
+    
 }
   
 .frame {
