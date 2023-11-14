@@ -1,0 +1,3 @@
+# disallow from commit
+*.json
+*.exe
